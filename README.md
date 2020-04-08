@@ -2,7 +2,7 @@
 
 A DCGAN used to train a hand generator that outputs 256 x 256 RGB images using the 11K hands Dataset.
 
-More specific information about references & implementation details can be seen in the [jupyter notebook](Hand%20Generator.ipynb).
+More specific information about references & implementation details can be found in the [jupyter notebook](Hand%20Generator.ipynb).
 
 # Environment
 
